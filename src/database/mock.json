@@ -1,0 +1,582 @@
+{
+    "results": [
+        {
+            "position": 0,
+            "title": "Socialhelix: visual analysis of sentiment divergence in social media",
+            "result_id": "Bs7O_Q7syuoJ",
+            "pdf_link": "https://link.springer.com/content/pdf/10.1007/s12650-014-0246-x.pdf",
+            "snippet": "Social media allow people to express and promote different opinions, on which people's sentiments to a subject often diverge when their opinions conflict. An intuitive visualization that unfolds the process of sentiment divergence from the rich and massive social media …",
+            "backdrop_path": "/oRgvHfN.jpg",
+            "summary": "N Cao, L Lu, YR Lin, F Wang, Z Wen - Journal of visualization, 2015 - Springer",
+            "year": "2015",
+            "code": "LLN14",
+            "target": [
+                {
+                    "entity": "",
+                    "aspect": "",
+                    "sentiment": "",
+                    "opinion_holder": "",
+                    "time": ""
+                }
+            ],
+            "intermediation": [
+                {
+                    "detection": [
+                        {
+                            "subjectivity_detection": "",
+                            "emotion_cause_detection": "",
+                            "identifying_the_intent_of_sentiment_information": "",
+                            "detection_of_evidence_event_that_causes_sentiment_patterns": "",
+                            "argument_expression_detection": "",
+                            "aspect_based_sentiment_analysis": "",
+                            "detection_of_fake_or_deceptive_sentiment_information": "",
+                            "hate_speech": ""
+                        }
+                    ],
+                    "summarization": [
+                        {
+                            "opinion_summarization": "",
+                            "sentiment_information_description_a_multi_aspect": ""
+                        }
+                    ],
+                    "classification": [
+                        {
+                            "emotion_detection_and_classification": "",
+                            "polarity_classification": ""
+                        }
+                    ],
+                    "comparison": [
+                        {
+                            "comparion_of_different_sentiments": ""
+                        }
+                    ],
+                    "exploration": [
+                        {
+                            "timeline_analysis": "",
+                            "analysis_of_debates_comments_and_argumentation": "",
+                            "finding_significant": "",
+                            "easy_exploration_of_sentiment_information": ""
+                        }
+                    ]
+                }
+            ],
+            "representation": [
+                {
+                    "element": [
+                        {
+                            "natural": [
+                                {
+                                    "celestial": "",
+                                    "human": "",
+                                    "animal": "",
+                                    "plant": "",
+                                    "compound": "",
+                                    "metal": "",
+                                    "nonmetal": ""
+                                }
+                            ],
+                            "artifact": [
+                                {
+                                    "building": "",
+                                    "structure": "",
+                                    "geometry": "",
+                                    "solid": "",
+                                    "picture": "",
+                                    "pattern": "",
+                                    "map": "",
+                                    "fiber": "",
+                                    "machine": "",
+                                    "letter": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "process": [
+                        {
+                            "natural_phenomena": "",
+                            "machine_phenomena": "",
+                            "behavior": "",
+                            "disaster": "",
+                            "space_time_movement": "",
+                            "creation_and_destruction": ""
+                        }
+                    ]
+                }
+            ],
+
+            "vis_var": {
+                "value": "",
+                "color": "",
+                "dimension": "",
+                "shape": "",
+                "position": "",
+                "orientation": "",
+                "distance": ""
+            },
+            "vis_tech": {
+                "d_visualization": "",
+                "node_link_diagram": "",
+                "bubble_chart": "",
+                "area_chart": "",
+                "line_plot": "",
+                "box_plot": "",
+                "pie_chart": "",
+                "radar_chart": "",
+                "tree_map": "",
+                "text_cloud": "",
+                "heatmap": "",
+                "scatter_plot": "",
+                "mds_map": "",
+                "parallel coordinate": "",
+                "pixel_based_plot": "",
+                "time_oriented_visualization": "",
+                "spatial_based_visualization": ""
+            }
+        },
+        {
+            "position": 1,
+            "title": "ConToVi: Multi‐party conversation exploration using topic‐space views",
+            "result_id": "IJ5ouwaWITMJ",
+            "pdf_link": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12919",
+            "snippet": "We introduce a novel visual analytics approach to analyze speaker behavior patterns in multi‐party conversations. We propose Topic‐Space Views to track the movement of speakers across the thematic landscape of a conversation. Our tool is designed to assist …",
+            "backdrop_path": "/nF0WL7V.jpg",
+            "summary": "M El‐Assady, V Gold, C Acevedo… - Computer Graphics …, 2016 - Wiley Online Library",
+            "year": "2016",
+            "code": "MEV16"
+        },
+        {
+            "position": 2,
+            "title": "Pearl: An interactive visual analytic tool for understanding personal emotion style derived from social media",
+            "result_id": "WVUIzE5nj2IJ",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7042496",
+            "snippet": "Hundreds of millions of people leave digital footprints on social media (eg, Twitter and Facebook). Such data not only disclose a person's demographics and opinions, but also reveal one's emotional style. Emotional style captures a person's patterns of emotions over …",
+            "backdrop_path": "/V0gScxl.jpg",
+            "summary": "J Zhao, L Gou, F Wang, M Zhou - … IEEE Conference on Visual …, 2014 - ieeexplore.ieee.org",
+            "year": "2014",
+            "code": "ZGWZ14"
+        },
+        {
+            "position": 3,
+            "title": "OpinionBlocks: a crowd-powered, self-improving interactive visual analytic system for understanding opinion text",
+            "result_id": "PbAaKmYZrVsJ",
+            "pdf_link": "https://link.springer.com/content/pdf/10.1007/978-3-642-40480-1_8.pdf",
+            "snippet": "Millions of people rely on online opinions to make their decisions. To better help people glean insights from massive amounts of opinions, we present the design, implementation, and evaluation of OpinionBlocks, a novel interactive visual text analytic system. Our system offers two unique features. First, it automatically creates a fine-grained, aspect-based visual summary of opinions, which provides users with insights at multiple levels. Second, it solicits and supports user interactions to rectify text-analytic errors, which helps improve the overall …",
+            "backdrop_path": "/wQQa0LU.jpg",
+            "summary": "M Hu, H Yang, MX Zhou, L Gou, Y Li… - IFIP Conference on Human …, 2013 - Springer",
+            "year": "2013",
+            "code": "HYZ13"
+        },
+        {
+            "position": 4,
+            "title": "Visual analysis of online social media to open up the investigation of stance phenomena",
+            "result_id": "nggHHEvxZa0J",
+            "pdf_link": "https://journals.sagepub.com/doi/pdf/10.1177/1473871615575079",
+            "snippet": "Online social media are a perfect text source for stance analysis. Stance in human communication is concerned with speaker attitudes, beliefs, feelings and opinions. Expressions of stance are associated with the speakers' view of what they are talking about and what is up for discussion and negotiation in the intersubjective exchange. Taking stance is thus crucial for the social construction of meaning. Increased knowledge of stance can be useful for many application fields such as business intelligence, security analytics, or social …",
+            "backdrop_path": "/d6Wn749.jpg",
+            "summary": "K Kucher, T Schamp-Bjerede, A Kerren… - Information …, 2016 - journals.sagepub.com",
+            "year": "2016",
+            "code": "KSBK15"
+        },
+        {
+            "position": 5,
+            "title": "SocialBrands: Visual analysis of public perceptions of brands on social media",
+            "result_id": "M5n8rdtTSPEJ",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7883513&casa_token=_Yokyh7DzygAAAAA:NDDQHwc3HYSeDqNIy6f_6-k6wraib1Rn-HaBFjWhOJh9K5nzxbA3Emq9BdHfwbdcKcCMCHEheA",
+            "snippet": "Public perceptions of a brand is critical to its performance. While social media has demonstrated a huge potential to shape public perceptions of brands, existing tools are not intuitive and explanatory for domain users to use as they fail to provide a comprehensive analysis framework for perceptions of brands. In this paper, we present SocialBrands, a novel visual analysis tool for brand managers to understand public perceptions of brands on social media. Social-Brands leverages brand personality framework in marketing literature …",
+            "backdrop_path": "/sB2BYp9.jpg",
+            "summary": "X Liu, A Xu, L Gou, H Liu, R Akkiraju… - 2016 IEEE Conference …, 2016 - ieeexplore.ieee.org",
+            "year": "2016",
+            "code": "LGX16"
+        },
+        {
+            "position": 6,
+            "title": "Asymmetric relations in longitudinal social networks",
+            "result_id": "oZjzEsnvJHMJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/6064994/",
+            "snippet": "In modeling and analysis of longitudinal social networks, visual exploration is used in particular to complement and inform other methods. The most common graphical representations for this purpose appear to be animations and small multiples of intermediate states, depending on the type of media available. We present an alternative approach based on matrix representation of gestaltlines (a combination of Tufte's sparklines with glyphs based on gestalt theory). As a result, we obtain static, compact, yet data-rich diagrams that …",
+            "summary": "U Brandes, B Nick - IEEE Transactions on Visualization and …, 2011 - ieeexplore.ieee.org",
+            "backdrop_path": "/PfZa19T.jpg",
+            "pdf_link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.3561&rep=rep1&type=pdf",
+            "year": "2011",
+            "code": "BN11B"
+        },
+        {
+            "position": 7,
+            "title": "Google+ ripples: A native visualization of information flow",
+            "result_id": "BRfxhp85xPoJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2488388.2488504",
+            "snippet": "ABSTRACT G+ Ripples is a visualization of information flow that shows users how public posts are shared on Google+. Unlike other social network visualizations, Ripples exists as a native visualization: it is directly accessible from public posts on Google+. This unique position leads to both new constraints and new possibilities for design. We describe the visualization technique, which is a new mix of node-and-link and circular treemap metaphors. We then describe user reactions as well as some of the patterns of sharing that …",
+            "summary": "F Viégas, M Wattenberg, J Hebert… - Proceedings of the …, 2013 - dl.acm.org",
+            "backdrop_path": "/251MQ1L.jpg",
+            "pdf_link": "http://hint.fm/papers/www2013-ripples.pdf",
+            "year": "2013",
+            "code": "VWH13"
+        },
+        {
+            "position": 8,
+            "title": "Whisper: Tracing the spatiotemporal process of information diffusion in real time",
+            "result_id": "crzmcwSL1jIJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/6327271/",
+            "snippet": "When and where is an idea dispersed? Social media, like Twitter, has been increasingly used for exchanging information, opinions and emotions about events that are happening across the world. Here we propose a novel visualization design,“Whisper”, for tracing the process of information diffusion in social media in real time. Our design highlights three major characteristics of diffusion processes in social media: the temporal trend, social-spatial extent, and community response of a topic of interest. Such social, spatiotemporal …",
+            "summary": "N Cao, YR Lin, X Sun, D Lazer, S Liu… - IEEE transactions on …, 2012 - ieeexplore.ieee.org",
+            "backdrop_path": "/a3kehFc.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6327271",
+            "year": "2012",
+            "code": "CSL12"
+        },
+        {
+            "position": 9,
+            "title": "Time-space varying visual analysis of micro-blog sentiment",
+            "result_id": "EHB58qSB5n0J",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2493102.2493110",
+            "snippet": "Micro-blog sentiment analysis attracts much attention by companies, governments and other organizations. It could help companies to estimate the extent of product acceptance and to determine marketing strategies, governments to monitor online public perception and to improve government-public relation, etc. Researchers mainly focused on time-varying analysis or space varying analysis.",
+            "summary": "C Zhang, Y Liu, C Wang - … of the 6th International Symposium on Visual …, 2013 - dl.acm.org",
+            "backdrop_path": "/JjJUPFh.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/2493102.2493110",
+            "year": "2013",
+            "code": "ZLW13"
+        },
+        {
+            "position": 10,
+            "title": "Storyflow: Tracking the evolution of stories",
+            "result_id": "Eb-tqIDqjLEJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/6634164/",
+            "snippet": "Storyline visualizations, which are useful in many applications, aim to illustrate the dynamic relationships between entities in a story. However, the growing complexity and scalability of stories pose great challenges for existing approaches. In this paper, we propose an efficient …",
+            "summary": "S Liu, Y Wu, E Wei, M Liu, Y Liu - IEEE Transactions on …, 2013 - ieeexplore.ieee.org",
+            "backdrop_path": "/eizGUrj.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6634164",
+            "year": "2013",
+            "code": "LWW13"
+        },
+        {
+            "position": 11,
+            "title": "Targetvue: Visual analysis of anomalous user behaviors in online communication systems",
+            "result_id": "vl3CSzs79JMJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/7185421/",
+            "snippet": "Users with anomalous behaviors in online communication systems (eg email and social medial platforms) are potential threats to society. Automated anomaly detection based on advanced machine learning techniques has been developed to combat this issue; challenges remain, though, due to the difficulty of obtaining proper ground truth for model training and evaluation. Therefore, substantial human judgment on the automated analysis results is often required to better adjust the performance of anomaly detection. Unfortunately …",
+            "summary": "N Cao, C Shi, S Lin, J Lu, YR Lin… - IEEE transactions on …, 2015 - ieeexplore.ieee.org",
+            "backdrop_path": "/mt871Nx.jpg",
+            "pdf_link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.4762&rep=rep1&type=pdf",
+            "year": "2015",
+            "code": "CSL16"
+        },
+        {
+            "position": 12,
+            "title": "Plexus: an interactive visualization tool for analyzing public emotions from Twitter data",
+            "result_id": "39568ViSRW8J",
+            "link": "https://arxiv.org/abs/1701.06270",
+            "snippet": "Social media is often used by researchers as an approach to obtaining real-time data on people's activities and thoughts. Twitter, as one of the most popular social networking services nowadays, provides copious information streams on various topics and events. Mining and analyzing Tweets enable us to find public reactions and emotions to activities or objects. This paper presents an interactive visualization tool that identifies and visualizes people's emotions on any two related topics by streaming and processing data from Twitter …",
+            "summary": "X Wu, L Bartram, C Shaw - arXiv preprint arXiv:1701.06270, 2017 - arxiv.org",
+            "backdrop_path": "/kYp3wLJ.jpg",
+            "pdf_link": "https://arxiv.org/pdf/1701.06270",
+            "year": "2017",
+            "code": "XWL17"
+        },
+        {
+            "position": 13,
+            "title": "Visualizing sentiments in business-customer relations with metaphors",
+            "result_id": "JXTPIbVgfocJ1",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2212776.2223661",
+            "snippet": "This project explores how the visualization of sentiments, extracted from social media posts, can foster transparency and strengthen relations between businesses and their customers. Guided by the nature of the data and an iterative design based on our end users' feedback, we examine a variety of visualization styles and metaphors as possible directions for a common set of tools to benefit both groups of users.",
+            "summary": "G Gali, S Oliver, F Chevalier, S Diamond - CHI'12 Extended Abstracts on …, 2012 - dl.acm.org",
+            "backdrop_path": "/0KPdg9w.jpg",
+            "pdf_link": "http://openresearch.ocadu.ca/id/eprint/1537/1/Diamond_Visualizing_2012.pdf",
+            "year": "2012",
+            "code": "GGS12_TPS"
+        },
+        {
+            "position": 14,
+            "title": "Visualizing sentiments in business-customer relations with metaphors",
+            "result_id": "JXTPIbVgfocJ2",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2212776.2223661",
+            "snippet": "This project explores how the visualization of sentiments, extracted from social media posts, can foster transparency and strengthen relations between businesses and their customers. Guided by the nature of the data and an iterative design based on our end users' feedback, we examine a variety of visualization styles and metaphors as possible directions for a common set of tools to benefit both groups of users.",
+            "summary": "G Gali, S Oliver, F Chevalier, S Diamond - CHI'12 Extended Abstracts on …, 2012 - dl.acm.org",
+            "backdrop_path": "/o9jbOyV.jpg",
+            "pdf_link": "http://openresearch.ocadu.ca/id/eprint/1537/1/Diamond_Visualizing_2012.pdf",
+            "year": "2012",
+            "code": "GGS12_STW"
+        },
+        {
+            "position": 15,
+            "title": "Visualizing sentiments in business-customer relations with metaphors",
+            "result_id": "JXTPIbVgfocJ3",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2212776.2223661",
+            "snippet": "This project explores how the visualization of sentiments, extracted from social media posts, can foster transparency and strengthen relations between businesses and their customers. Guided by the nature of the data and an iterative design based on our end users' feedback, we examine a variety of visualization styles and metaphors as possible directions for a common set of tools to benefit both groups of users.",
+            "summary": "G Gali, S Oliver, F Chevalier, S Diamond - CHI'12 Extended Abstracts on …, 2012 - dl.acm.org",
+            "backdrop_path": "/delFozj.jpg",
+            "pdf_link": "http://openresearch.ocadu.ca/id/eprint/1537/1/Diamond_Visualizing_2012.pdf",
+            "year": "2012",
+            "code": "GGS12_MT"
+        },
+        {
+            "position": 16,
+            "title": "ORCAESTRA: Organizing news comments using aspect, entity and sentiment extraction",
+            "result_id": "yXZHEhlv-6MJ",
+            "type": "Pdf",
+            "link": "http://www.inf.unibz.it/~prasojo/files/orcaestra.pdf",
+            "snippet": "We present ORCAESTRA, a tool for organizing and visualizing user comments about online news articles. ORCAESTRA enables the exploration of user comments based on (1) the entities they focus on and (2) the aspects, of those entities, they argue about. Moreover, it analyzes the sentiments expressed about each aspect to classify related user comments into positive, negative, or neutral. As a result, our tool enhances user experience by providing a better understanding of the different view points discussed in user comments.",
+            "summary": "RE Prasojo, F Darari, M Kacimi - Poster Abstracts of IEEE VIS, 2015 - inf.unibz.it",
+            "backdrop_path": "/L2rfa31.jpg",
+            "pdf_link": "http://www.inf.unibz.it/~prasojo/files/orcaestra.pdf",
+            "year": "2015",
+            "code": "REP15"
+        },
+        {
+            "position": 17,
+            "title": "Interactive Visualization of Streaming Text Data with Dynamic Maps.",
+            "result_id": "aUyqa7c6ZMEJ",
+            "type": "Pdf",
+            "link": "http://yifanhu.net/PUB/twitter_scope.pdf",
+            "snippet": "The many endless rivers of text now available present a serious challenge in the task of gleaning, analyzing and discovering useful information. In this paper, we describe a methodology for visualizing a text stream in real-time, modeled as a dynamic graph and its derived map. The approach automatically groups similar messages into clusters displayed as “countries,” with keyword summaries, using semantic analysis, graph clustering and map generation techniques. It handles the need for visual stability across time by dynamic graph …",
+            "summary": "ER Gansner, Y Hu, SC North - J. Graph Algorithms Appl., 2013 - yifanhu.net",
+            "backdrop_path": "/HgWf83X.jpg",
+            "pdf_link": "http://yifanhu.net/PUB/twitter_scope.pdf",
+            "year": "2013",
+            "code": "EGY15"
+        },
+        {
+            "position": 18,
+            "title": "VideoForest: interactive visual summarization of video streams based on danmu data",
+            "result_id": "Ix2_G8DyMFAJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3002151.3002159",
+            "snippet": "Emerging online video-sharing websites such as YouTube allow users to access a huge number of videos and generate feedback via reviews and/or live comments (aka danmu), making it possible to summarize videos based on media and user responses collectively. A video summary produced by existing techniques may not fully capture the audience's perception of and reaction to the source video, and thus may be less reflective. In this paper, we introduce VideoForest, a visualization system designed to convert an input video …",
+            "summary": "Z Sun, M Sun, N Cao, X Ma - SIGGRAPH ASIA 2016 Symposium on …, 2016 - dl.acm.org",
+            "backdrop_path": "/YvnCbHJ.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3002151.3002159",
+            "year": "2016",
+            "code": "JSM16"
+        },
+        {
+            "position": 19,
+            "title": "The MBTI Map",
+            "result_id": "kw2_LAJ0u9",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/1667265.1667295",
+            "snippet": "This project proposes the MBTI Map as a way to signify relationships among the words that describe people’s personalities. We asked a sample of 80 individuals to rank the degree of closeness between a dyadic pair of words to determine how these concepts are congruently clustered together. The result showed that a total of 39 representative words were extracted from 161 words that are used in describing personal characteristics in the 16 MBTI…",
+            "summary": "SH Kang, JH Bae, SJ Ko, JS Lee, KW Lee - SIGGRAPH 2009",
+            "backdrop_path": "/wLJ07k8.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/1667265.1667295",
+            "year": "2009",
+            "code": "KWL09"
+        },
+        {
+            "position": 20,
+            "title": "One Angry Bird: Emotional arcs of the past ten U.S. presidential inaugural addresses",
+            "result_id": "OAB_LAJ0u10",
+            "link": "https://emotions.periscopic.com/inauguration/",
+            "snippet": "We used the Microsoft Emotion API to detect facial expressions of the presidents while speaking. The emotions it identifies are similar to the 7 most widely identified emotions cross-culturally. While this does not provide a thorough analysis of the inaugural addresses, it does show a distinctive negative departure by Trump from the past nine speeches. Interact with the feathers to see more information and matching video segment for each emotion…",
+            "summary": "A public service by PERISCOPIC",
+            "backdrop_path": "/YrRY08d.jpg",
+            "pdf_link": "https://emotions.periscopic.com/inauguration/",
+            "year": "2017",
+            "code": "EAIA17"
+        },
+        {
+            "position": 21,
+            "title": "User-directed sentiment analysis: Visualizing the affective content of documents",
+            "result_id": "jc-uDNfSaUQJ",
+            "type": "Pdf",
+            "link": "https://www.aclweb.org/anthology/W06-0304.pdf",
+            "snippet": "Recent advances in text analysis have led to finer-grained semantic analysis, including automatic sentiment analysis—the task of measuring documents, or chunks of text, based on emotive categories, such as positive or negative. However, considerably less progress has been made on efficient ways of exploring these measurements. This paper discusses approaches for visualizing the affective content of documents and describes an interactive capability for exploring emotion in a large document collection.",
+            "summary": "M Gregory, N Chinchor, P Whitney, R Carter… - Proceedings of the …, 2006 - aclweb.org",
+            "backdrop_path": "/v4tBtFS.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.5555/1654641.1654645",
+            "year": "2006",
+            "code": "MLG"
+        },
+        {
+            "position": 22,
+            "title": "Visual analysis of MOOC forums with iForum",
+            "result_id": "RS8b1SCw5YgJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/7534878/",
+            "snippet": "Discussion forums of Massive Open Online Courses (MOOC) provide great opportunities for students to interact with instructional staff as well as other students. Exploration of MOOC forum data can offer valuable insights for these staff to enhance the course and prepare the next release. However, it is challenging due to the large, complicated, and heterogeneous nature of relevant datasets, which contain multiple dynamically interacting objects such as users, posts, and threads, each one including multiple attributes. In this paper, we present a …",
+            "summary": "S Fu, J Zhao, W Cui, H Qu - IEEE Transactions on Visualization …, 2016 - ieeexplore.ieee.org",
+            "backdrop_path": "/U8wAT8w.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7534878",
+            "year": "2016",
+            "code": "SFJ16"
+        },
+        {
+            "position": 23,
+            "title": "Wrongfully right: applications of semantic figurative metaphors in information visualization",
+            "result_id": "UWJoiuN7wQYJ",
+            "type": "Pdf",
+            "link": "http://visap.uic.edu/2015/VISAP15-Papers/visap2015_Cruz_WrongfullyRight.pdf",
+            "snippet": "Semantic figurative metaphors modify visualization models and add non-data visual cues to visualizations. They result from an authorial intent to transmit stronger messages and emotionally connect with broad audiences. This article describes how I make use of semantic figurative metaphors across three applications, discussing design decisions and the limitations of this approach …",
+            "summary": "P Cruz - IEEE VIS Arts Program (VISAP), 2015 - visap.uic.edu",
+            "backdrop_path": "/C2IpSkW.jpg",
+            "pdf_link": "http://visap.uic.edu/2015/VISAP15-Papers/visap2015_Cruz_WrongfullyRight.pdf",
+            "year": "2015",
+            "code": "PC15-PV"
+        },
+        {
+            "position": 24,
+            "title": "NEREx: Named‐Entity Relationship Exploration in Multi‐Party Conversations",
+            "result_id": "6Q3nqU5pHdYJ",
+            "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13181",
+            "snippet": "We present NEREx, an interactive visual analytics approach for the exploratory analysis of verbatim conversational transcripts. By revealing different perspectives on multi‐party conversations, NEREx gives an entry point for the analysis through high‐level overviews and provides mechanisms to form and verify hypotheses through linked detail‐views. Using a tailored named‐entity extraction, we abstract important entities into ten categories and extract their relations with a distance‐restricted entity‐relationship model. This model …",
+            "summary": "M El‐Assady, R Sevastjanova, B Gipp… - Computer Graphics …, 2017 - Wiley Online Library",
+            "backdrop_path": "/TAncuch.jpg",
+            "pdf_link": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13181",
+            "year": "2017",
+            "code": "MEA17"
+        },
+        {
+            "position": 25,
+            "title": "Exploring controversy via sentiment divergences of aspects in reviews",
+            "result_id": "yE_NoJE1IawJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/8031600/",
+            "snippet": "A visual summary of the controversial aspects of an item enables both customers and marketers to identify and address complaints and concerns about the item effectively. In this paper, we propose a novel visual analytics system, to visually explore when a controversy occurs and the causes behind the controversy via user-generated reviews with text and ratings in various domains, such as restaurants, home goods, and cultural products. Quantitative analysis of the ratings of an item is first applied to characterize the evolution of …",
+            "summary": "J Xu, Y Tao, H Lin, R Zhu, Y Yan - 2017 IEEE Pacific …, 2017 - ieeexplore.ieee.org",
+            "backdrop_path": "/0ZizbPu.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8031600",
+            "year": "2017",
+            "code": "JX17"
+        },
+        {
+            "position": 26,
+            "title": "Vibes: visualizing changing emotional states in personal stories",
+            "result_id": "RZqWqrlJvQMJ",
+            "link": "https://dl.acm.org/doi/abs/10.1145/1462014.1462025",
+            "snippet": "Online journals (blogs) provide not only an outlet for emotional self-expression, but also a space for social interaction and commiseration through the exchange of personal stories. However, the massive extent of the blogosphere can overwhelm users, restricting their ability to make meaningful connections to fellow bloggers. In this article, we present a system, VIBES, that extracts the important topics from a blog, measures the emotions associated with those topics, and generates a suite of visualizations of this information …",
+            "summary": "AM Wensel, SO Sood - Proceedings of the 2nd ACM international …, 2008 - dl.acm.org",
+            "backdrop_path": "/eAzJnBC.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/1462014.1462025",
+            "year": "2008",
+            "code": "MWSO08"
+        },
+        {
+            "position": 27,
+            "title": "Co-Bridges: Pair-wise Visual Connection and Comparison for Multi-item Data Streams",
+            "result_id": "-nOO7vpKB-kJ",
+            "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9246250",
+            "snippet": "In various domains, there are abundant streams or sequences of multi-item data of various kinds, eg streams of news and social media texts, sequences of genes and sports events, etc. Comparison is an important and general task in data analysis. For comparing data streams involving multiple items (eg, words in texts, actors or action types in action sequences, visited places in itineraries, etc.), we propose Co-Bridges, a visual design involving connection and comparison techniques that reveal similarities and differences …",
+            "summary": "S Chen, N Andrienko, G Andrienko… - IEEE Transactions on …, 2020 - ieeexplore.ieee.org",
+            "backdrop_path": "/DFBi3Mo.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9246250",
+            "year": "2020",
+            "code": "CAA20"
+        },
+        {
+            "position": 28,
+            "title": "Storyteller: Visual analytics of perspectives on rich text interpretations",
+            "result_id": "nYJ31NKO9tYJ",
+            "type": "Pdf",
+            "link": "https://aclanthology.org/W17-4207.pdf",
+            "snippet": "Complexity of event data in texts makes it difficult to assess its content, especially when considering larger collections in which different sources report on the same or similar situations. We present a system that makes it possible to visually analyze complex event and emotion data extracted from texts. We show that we can abstract from different data models for events and emotions to a single data model that can show the complex relations in four dimensions. The visualization has been applied to analyze 1) dynamic developments in how …",
+            "summary": "M van Meersbergen, P Vossen… - Proceedings of the …, 2017 - aclweb.org",
+            "backdrop_path": "/W1LK5xl.jpg",
+            "pdf_link": "https://aclanthology.org/W17-4207.pdf",
+            "year": "2017",
+            "code": "MVM17"
+        },
+        {
+            "position": 29,
+            "title": "A narrative display for sports tournament recap",
+            "result_id": "enmKoFFtYfEJ",
+            "type": "Pdf",
+            "link": "http://workshop.sportvis.com/papers/sportsvis13.pdf",
+            "snippet": "During major sports competitions, such as the FIFA World Cup, billions of people around the world turn their attentions to the results and stories of the tournament. There have been many visualization created to tell the stories of these competitions. Some focus on showing individual matches. Some focus on showing tournament overview. However, it is difficult to find a visualization that show both tournament overview and match details. In this paper, I describe a simple approach to collect data from Twitter to highlight interesting moments from …",
+            "summary": "K Wongsuphasawat - … on Sports Data Visualization, IEEE VIS, 2013 - workshop.sportvis.com",
+            "backdrop_path": "/CM5qdjZ.jpg",
+            "pdf_link": "http://workshop.sportvis.com/papers/sportsvis13.pdf",
+            "year": "2013",
+            "code": "KW13"
+        },
+        {
+            "position": 30,
+            "title": "PeopleGarden: creating data portraits for users",
+            "result_id": "bvsGe6W3KOQJ",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/320719.322581",
+            "snippet": "Many on-line interaction environments have a large number of users. It is difficult for the participants, especially new ones, to form a clear mental image about those with whom they are interacting. How can we compactly convey information about these participants to each other? We propose the data portrait, a novel graphical representation of users based on their past interactions. Data portraits can inform users about each other and the overall social environment. We use a flower metaphor for creating individual data portraits, and a …",
+            "summary": "R Xiong, J Donath - Proceedings of the 12th annual ACM symposium on …, 1999 - dl.acm.org",
+            "backdrop_path": "/3z1qZf0.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/320719.322581",
+            "year": "1999",
+            "code": "XD99"
+        },
+        {
+            "position": 31,
+            "title": "History of Bruce Springsteen",
+            "result_id": "AMC18pHdYJ",
+            "link": "http://duelingdata.blogspot.com/2018/08/history-of-bruce-springsteen.html",
+            "snippet": "This visualization (interactive version here) is a musical history of one of my favorite artists: Bruce Springsteen. It focuses on his 200 songs and 17 original studio albums over a 45 year career. This viz was inspired by the work of Federica Fragapane and Giorgia Lupi. I wanted my viz to balance the complex, abstract artistry of their work with detailed narrative insights from Bruce's autobiography: Born to Run …",
+            "summary": "B Springsteen, 2018",
+            "backdrop_path": "/Gkn1nIr.jpg",
+            "pdf_link": "http://duelingdata.blogspot.com/2018/08/history-of-bruce-springsteen.html",
+            "year": "2018",
+            "code": "AMC18"
+        },
+        {
+            "position": 32,
+            "title": "R-map: A map metaphor for visualizing information reposting process in social media",
+            "result_id": "coT4rY4LebsJ",
+            "link": "https://ieeexplore.ieee.org/abstract/document/8805419/",
+            "snippet": "We propose R-Map (Reposting Map), a visual analytical approach with a map metaphor to support interactive exploration and analysis of the information reposting process in social media. A single original social media post can cause large cascades of repostings (ie, retweets) on online networks, involving thousands, even millions of people with different opinions. Such reposting behaviors form the reposting tree, in which a node represents a message and a link represents the reposting relation. In R-Map, the reposting tree structure …",
+            "summary": "S Chen, S Li, S Chen, X Yuan - IEEE transactions on …, 2019 - ieeexplore.ieee.org",
+            "backdrop_path": "/whljPHw.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8805419",
+            "year": "2019",
+            "code": "SCS19"
+        },
+        {
+            "position": 33,
+            "title": "D-map+ interactive visual analysis and exploration of ego-centric and event-centric information diffusion patterns in social media",
+            "result_id": "rrmicrwLfJsJ",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3183347",
+            "snippet": "Information diffusion analysis is important in social media. In this work, we present a coherent ego-centric and event-centric model to investigate diffusion patterns and user behaviors. Applying the model, we propose Diffusion Map+ (D-Maps+), a novel visualization method to support exploration and analysis of user behaviors and diffusion patterns through a map metaphor. For ego-centric analysis, users who participated in reposting (ie, resending a message initially posted by others) one central user's posts (ie, a series of original tweets) …",
+            "summary": "S Chen, S Chen, Z Wang, J Liang, Y Wu… - ACM Transactions on …, 2018 - dl.acm.org",
+            "backdrop_path": "/yNr6o0w.jpg",
+            "pdf_link": "https://dl.acm.org/doi/pdf/10.1145/3183347",
+            "year": "2018",
+            "code": "SCS16"
+        },
+        {
+            "position": 34,
+            "title": "E-map: A visual analytics approach for exploring significant event evolutions in social media",
+            "result_id": "mxRK05jwL28J",
+            "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8585638&casa_token=HpKPyQbvn0AAAAAA:kgiNGejjaewTKxAoSxKNWD4fJCy8-LOJOfYhNk9ci5xJtn6JPwVz-MhMoSooDP25IwCmybzCxHOK&tag=1",
+            "snippet": "Significant events are often discussed and spread through social media, involving many people. Reposting activities and opinions expressed in social media offer good opportunities to understand the evolution of events. However, the dynamics of reposting activities and the diversity of user comments pose challenges to understand event-related social media data. We propose E-Map, a visual analytics approach that uses map-like visualization tools to help multi-faceted analysis of social media data on a significant event …",
+            "summary": "S Chen, S Chen, L Lin, X Yuan… - … IEEE Conference on …, 2017 - ieeexplore.ieee.org",
+            "backdrop_path": "/IoSGXxk.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8585638&casa_token=HpKPyQbvn0AAAAAA:kgiNGejjaewTKxAoSxKNWD4fJCy8-LOJOfYhNk9ci5xJtn6JPwVz-MhMoSooDP25IwCmybzCxHOK&tag=1",
+            "year": "2017",
+            "code": "SCS17"
+        },
+        {
+            "position": 35,
+            "title": "VineMap: a metaphor visualization method for public opinion hierarchy from text data",
+            "result_id": "EOjMS3ynkbAJ",
+            "link": "https://link.springer.com/content/pdf/10.1007/s12650-021-00757-z.pdf",
+            "snippet": "With the growth of hierarchical data in public opinion analysis, new visualization methods that can intuitively present this kind of data are urgently needed. In this paper, we propose VineMap, a new visualization method with a vine metaphor form. Different from other public opinion visualizations, we devote more attention to visualize both the hierarchical structure of texts and the semantic orientation in content. First, we extract a hierarchical topic model from text data. Then we design a visualization based on a vine metaphor form to enable …",
+            "summary": "Y Cui, C Li, C Chen, Y Liang, Y Hu, C Wang - Journal of Visualization, 2021 - Springer",
+            "backdrop_path": "/6VKYLDz.jpg",
+            "pdf_link": "https://link.springer.com/content/pdf/10.1007/s12650-021-00757-z.pdf",
+            "year": "2021",
+            "code": "YCC21"
+        },
+        {
+            "position": 36,
+            "title": "How ideas flow across multiple social groups",
+            "result_id": "HIFAMSGd23IE",
+            "link": "https://ieeexplore.ieee.org/document/7883511",
+            "snippet": "Tracking how correlated ideas flow within and across multiple social groups facilitates the understanding of the transfer of information, opinions, and thoughts on social media. In this paper, we present IdeaFlow, a visual analytics system for analyzing the lead-lag changes within and across pre-defined social groups regarding a specific set of correlated ideas, each of which is described by a set of words …",
+            "summary": "X Wang, S Liu, Y Chen, T Peng, J Su, J Yang - IEEE Conference on …, 2016 - ieeexplore.ieee.org",
+            "backdrop_path": "/miBrejJ.jpg",
+            "pdf_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7883511",
+            "year": "2016",
+            "code": "XWS16"
+        },
+        {
+            "position": 37,
+            "title": "Cascade",
+            "result_id": "NOTNYTRLH54T",
+            "link": "https://link.springer.com/content/pdf/10.1007/s12650-021-00757-z.pdf",
+            "snippet": "Some of the most exciting work taking place in The New York Times building is being done on the 28th floor, in the paper’s Research and Development Lab. The group serves essentially as a skunkworks project for a news institution that stands to benefit, financially and otherwise, from creative thinking; as Michael Zimbalist, the Times’ vice president of R&D, puts it, the team is “investigating the ideas at the edges of today and thinking about how they’re going to impact business decisions tomorrow …",
+            "summary": "J Thorp, M Hansen, J Porway, 2011 - The New York Times",
+            "backdrop_path": "/wr3jz8o.png",
+            "pdf_link": "https://www.niemanlab.org/2011/04/the-new-york-times-rd-lab-has-built-a-tool-that-explores-the-life-stories-take-in-the-social-space/",
+            "year": "2021",
+            "code": "YCC21"
+        }
+    ]
+}
